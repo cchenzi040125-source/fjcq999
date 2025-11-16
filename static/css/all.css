@@ -1,0 +1,181 @@
+﻿/*- - - - - - - - -小山设计工作室 www.bailu123.com 设计制作 - - - - - - - -*/
+
+.musicbox{width:47px;height:47px;position:absolute;z-index:500;top:15px;left:50%;cursor:pointer;margin-left:-320px}
+.musicplay{background:url(../image/musicplay.png) no-repeat}
+.musicstop{background:url(../image/musicstop.png) no-repeat}
+
+/*- - - - - - - - -小山设计工作室 www.bailu123.com 设计制作 - - - - - - - -*/
+#quicklinks{width:1200px;height:180px;position:absolute;overflow:hidden;top:950px;left:50%;margin:0 auto;margin-left:-600px;z-index:3500;margin-top:0px;}
+#quicklinks .down01_btn{cursor:pointer;width:120px;height:280px;position:absolute;margin-left:142px;margin-top:0px;background-size:100% 100%;text-indent:-9999rem;}
+#quicklinks .down02_btn{cursor:pointer;width:120px;height:280px;position:absolute;margin-left:405px;margin-top:0px;background-size:100% 100%;text-indent:-9999rem;}
+#quicklinks .down03_btn{cursor:pointer;width:120px;height:280px;position:absolute;margin-left:667px;margin-top:0px;background-size:100% 100%;text-indent:-9999rem;}
+#quicklinks .down04_btn{cursor:pointer;width:120px;height:280px;position:absolute;;margin-left:920px;margin-top:0px;background-size:100% 100%;text-indent:-9999rem;}
+#quicklinks .eweima01{cursor:pointer;width:120px;height:120px;position:absolute;;margin-left:125px;margin-top:40px;}
+#quicklinks .eweima01 img{float:left;width:120px;height:120px}
+#quicklinks .eweima02{cursor:pointer;width:120px;height:120px;position:absolute;;margin-left:715px;margin-top:40px;}
+#quicklinks .eweima02 img{float:left;width:120px;height:120px}
+
+
+/*xin*/
+#Version{width:100%;height:1000px;position:relative;z-index:2;margin:0 auto; overflow:hidden}
+#Flash{width:1920px;height:1000px;position:absolute;left:50%;margin:0px auto -272px -960px;z-index:1;}
+#Header{margin:0 auto -290px -960px;width:100%;height:1000px;position:relative;left:50%; z-index:0;}
+
+
+
+#m1{width:1920px;height:450px;position:relative;min-width:1280px;margin:0 auto;padding-top:0px;background:url("../image/bg_02.jpg")/*tpa=http://www.st099.com/images/bg_02.jpg*/ no-repeat center top;}
+#m1 .myVideo{width:1920px;height:450px;position:absolute;left:50%;margin:0px auto -272px -961px;z-index:50;}
+#m2{width:1920px;height:1000px;position:relative;min-width:1280px;margin:0 auto;padding-top:0px;background:url("https://xu30.com/images/bg_03.jpg")/*tpa=http://www.st099.com/images/bg_03.jpg*/ no-repeat center top;}
+#m2 .myVideo{width:1920px;height:1000px;position:absolute;left:50%;margin:0px auto -272px -961px;z-index:50;}
+#m3{width:1920px;height:700px;position:relative;min-width:1280px;margin:0 auto;padding-top:0px;background:url("../image/bg_04.jpg")/*tpa=http://www.st099.com/images/bg_04.jpg*/ no-repeat center top;}
+#m3 .myVideo{width:1920px;height:700px;position:absolute;left:50%;margin:0px auto -272px -961px;z-index:50;}
+#m4{width:1920px;height:750px;position:relative;min-width:1280px;margin:0 auto;padding-top:0px;background:url("../image/bg_05.jpg")/*tpa=http://www.st099.com/images/bg_05.jpg*/ no-repeat center top;}
+#m4 .myVideo{width:1920px;height:750px;position:absolute;left:50%;margin:0px auto -272px -961px;z-index:50;}
+
+.SQ{cursor:pointer;width:250px;height:313px;position:fixed;text-indent:-9999rem;background:url("https://xu30.com/images/sq.png")/*tpa=http://www.st099.com/images/sq.png*/ no-repeat center top;top:350px;left:2px;z-index:999}
+
+#PhotoShow{float:left;width:1250px;height:480px;position:relative;margin-left:30px;margin-top:200px;z-index:99000}
+#PhotoShow .gundong{width:1250px;}
+#PhotoShow .gundong .jCarouselLite{float:left;width:1250px;height:480px;overflow:hidden;}
+#PhotoShow .move_right,#PhotoShow .move_left{float:left;width:43px;height:480px;position:absolute;top:0px;z-index:500;}
+#PhotoShow .move_left span,#PhotoShow .move_right span{width:95px;height:112px;position:absolute;top:50%;margin-top:-60px;;background-repeat:no-repeat;}
+#PhotoShow .move_left{left:-100px;}
+#PhotoShow .move_left span{background:url("../image/arrow-left.png")/*tpa=http://www.st099.com/images/arrow-left.png*/ no-repeat left top}
+#PhotoShow .move_left:hover span{background:url("../image/arrow-left.png")/*tpa=http://www.st099.com/images/arrow-left.png*/ no-repeat left top}
+#PhotoShow .move_right{right:-100px;}
+#PhotoShow .move_right span{background:url("../image/arrow-right.png")/*tpa=http://www.st099.com/images/arrow-right.png*/ no-repeat left top;}
+#PhotoShow .move_right:hover span{background:url("../image/arrow-right.png")/*tpa=http://www.st099.com/images/arrow-right.png*/ no-repeat left top;}
+
+/*图片列表*/
+.PictureList{float:left;}
+.PictureList li{margin:0 20px;float:left;width:390px;display:inline;}
+.PictureList .photo{width:390px;height:480px;display:block;}
+.PictureList .photo img{float:left;width:390px;height:480px;}
+
+
+
+#ZhiYe{float:left;height:465px;position:relative;min-width:1300px;margin:0 auto;margin-top:450px;z-index:1000;margin-left:230px}
+#ZhiYe .center{float:left;position:relative;width:1000px;;}
+#ZhiYe .photoshow_select{text-align:center;margin-top:15px;}
+#ZhiYe .photoshow_select a{margin:0 2px;width:20px;height:20px;text-indent:0px;background:url("https://xu30.com/images/icon_point.png")/*tpa=http://www.st099.com/images/icon_point.png*/ no-repeat left top;cursor:pointer;display:inline-block;}
+#ZhiYe .photoshow_select a.change{background-position:right top;}
+#ZhiYe .photoshow{width:500px;height:465px;margin:0 auto;}
+#ZhiYe .photoshow li{width:765px;height:465px;text-align:center;cursor:pointer;}
+#ZhiYe .photoshow li img{max-width:100%;}
+#ZhiYe .photoshow li.roundabout-in-focus{cursor:default;}
+#ZhiYe .photoshow li span{padding-top:6em;display:block;}
+#ZhiYe .move_rights,#ZhiYe .move_lefts{float:left;width:95px;height:465px;position:absolute;top:0px;z-index:1500;}
+#ZhiYe .move_lefts span,#ZhiYe .move_rights span{width:95px;height:112px;position:absolute;top:50%;margin-top:-50px;}
+#ZhiYe .move_lefts{left:-140px;}
+#ZhiYe .move_lefts span{background:url("../image/arrow-left.png")/*tpa=http://www.st099.com/images/arrow-left.png*/ no-repeat left top}
+#ZhiYe .move_lefts:hover span{background:url("../image/arrow-left.png")/*tpa=http://www.st099.com/images/arrow-left.png*/ no-repeat left top}
+#ZhiYe .move_rights{right:-130px;}
+#ZhiYe .move_rights span{background:url("../image/arrow-right.png")/*tpa=http://www.st099.com/images/arrow-right.png*/ no-repeat left top;}
+#ZhiYe .move_rights:hover span{background:url("../image/arrow-right.png")/*tpa=http://www.st099.com/images/arrow-right.png*/ no-repeat left top;}
+
+
+
+
+.nav{height: 75px;background: url("../image/t-r-b.png")/*tpa=http://www.st099.com/images/t-r-b.png*/ repeat-x;padding-top: 5px;position: relative;z-index: 10;}
+.nav .t-logo{display: block;margin: 0 0 0 5px;width: 700px;height: 70px;float: left;background: url("../image/t-logo.gif")/*tpa=http://www.st099.com/images/t-logo.gif*/ no-repeat;}
+.r-nav-c{width:140px;height: 37px;float: right;background: url("../image/t-nav-c.png")/*tpa=http://www.st099.com/images/t-nav-c.png*/ no-repeat;margin-right: 28px;position: relative;margin-top: 15px;}
+.r-nav-c .al{width: 116px;height: 68px;float: left;margin-left: 12px;position: relative;}
+.r-nav-c a{width: 116px;height: 37px;display: block;background: url("../image/t-nav.png")/*tpa=http://www.st099.com/images/t-nav.png*/ no-repeat;}
+.r-nav-c a.a1{background-position: -12px 0px;font-size:16px;color:#242424}
+.r-nav-c a.a2{background-position: -140px 0px;}
+.r-nav-c a.a3{background-position: -268px 0px;}
+.r-nav-c a.a4{background-position: -396px 0px;}
+.r-nav-c a.a5{background-position: -524px 0px;}
+.r-nav-c a.a1:hover,.r-nav-c a.a1.on{background-position: -12px -37px;}
+.r-nav-c a.a2:hover,.r-nav-c a.a2.on{background-position: -140px -37px;}
+.r-nav-c a.a3:hover,.r-nav-c a.a3.on{background-position: -268px -37px;}
+.r-nav-c a.a4:hover,.r-nav-c a.a4.on{background-position: -396px -37px;}
+.r-nav-c a.a5:hover,.r-nav-c a.a5.on{background-position: -524px -37px;}
+.r-nav-c .al .aui{display: none;width: 128px;position: absolute;left: -3px;top: 67px;z-index:10}
+.r-nav-c .al .aui .b{position: absolute;left: 0;top: 0;width: 100%;height: 100%;background: #fff;opacity: 0.9;filter:alpha(opacity=90);}
+.r-nav-c .al ul{position: relative;padding: 10px 0;}
+.r-nav-c .al ul li{height: 32px;}
+.r-nav-c .al ul li a{color: #404040;width: 110px;height: 32px;display: block;margin: 0 auto;text-align: center;line-height: 32px;background-image: none;border-radius: 5px;}
+.r-nav-c .al ul li a:hover{background-color: #7cae95;color: #fff;}
+
+
+#DownLoad{width:900px;height:180px;position:absolute;overflow:hidden;top:850px;left:50%;margin:0 auto;margin-left:-480px;z-index:3500;margin-top:0px;}
+.c:before,.c:after {content:"";display:table;}
+.c:after {clear:both;}
+.c {zoom:1;}
+.sp{background: url("../image/sp.png")/*tpa=http://www.st099.com/images/sp.png*/ no-repeat;}
+.box1{position: absolute;width: 781px;height:160px;margin: 0 auto;opacity: 0;animation: box1 1s linear forwards;-webkit-animation: box1 1s linear forwards;z-index:1000;left:200px}
+.box1{width: 781px;margin: 0 auto;opacity: 0;animation: box1 1s linear forwards;-webkit-animation: box1 1s linear forwards;}
+@keyframes box1{
+	0%{transform: translateY(-100px);opacity: 0;}
+	100%{transform: translateY(0);opacity: 1;}
+}
+@-webkit-keyframes box1{
+	0%{transform: translateY(-100px);opacity: 0;}
+	100%{transform: translateY(0);opacity: 1;}
+}
+.codetxt{width: 43px;height: 145px;background-color: #170d02;float: left;font-size: 14px;color: #fefefe;
+				line-height: 16px;text-align: center;padding-top: 15px;}
+.code{display: block;float: left;width: 156px;height: 160px;position: relative;background: #0b0907}
+.code img{display: block;width:135px;height:135px;margin-left:10px;margin-top:12px}
+.line{display: block;position: absolute;width: 159px;height: 1px;border-bottom: 1px solid #FFFFFF;position: absolute;top: 0;left: 0;
+animation: line 7s linear infinite;
+-webkit-animation: line 7s linear infinite;
+}
+.btnpc2{background: url("../image/bgpcdown2.jpg")/*tpa=http://www.st099.com/images/bgpcdown2.jpg*/ no-repeat;width: 247px;height: 160px;float: left;position: relative;overflow:initial;}
+.btnpc2 span{display: block;background-position:-15px -1348px;width: 132px;height: 100px;position: absolute;right: -2px;top: 12px;}
+@keyframes line{
+	0%{top: 0;}
+	50%{top: 160px;}
+	100%{top: 0;}
+}
+@-webkit-keyframes line{
+	0%{top: 0;}
+	50%{top: 160px;}
+	100%{top: 0;}
+}
+.mobidown{width: 182px;float: left;}
+.mobidown a{display: block;width: 182px;}
+.btnios{height: 55px;background-color: #1c1812;padding-top: 24px;
+transition:all 0.3s linear;
+-webkit-transition:all 0.3s linear;
+}
+.btnandr{height: 57px;background-color: #26241a;padding-top: 24px;}
+.btnios span{display: block;margin: 0 auto;width: 107px;}
+.btnios strong{background-position: -15px -10px;width: 28px;height: 32px;float: left;}
+.btnios em{width: 64px;font-size: 16px;color: #FFFFFF;line-height: 38px;float: right;}
+.btnanim strong.on{
+	animation: btnicon 0.5s linear forwards;
+	-webkit-animation: btnicon 0.5s linear forwards;
+}
+@keyframes btnicon{
+	0%{transform: rotateY(0);}
+	100%{transform: rotateY(180deg);}
+}
+@-webkit-keyframes btnicon{
+	0%{transform: rotateY(0);}
+	100%{transform: rotateY(180deg);}
+}
+.btnanim strong.cur{
+	animation: btnicona 0.5s linear forwards;
+	-webkit-animation: btnicona 0.5s linear forwards;
+}
+@keyframes btnicona{
+	0%{transform: rotateY(180deg);}
+	100%{transform: rotateY(0);}
+}
+@-webkit-keyframes btnicona{
+	0%{transform: rotateY(180deg);}
+	100%{transform: rotateY(0);}
+}
+
+
+
+
+.btnandr span{display: block;background-position: -19px -63px;width: 107px;height: 32px;margin: 0 auto;}
+.btnandr strong{background-position: -19px -63px;width: 28px;height: 32px;display: block;float: left;}
+.btnandr em{width: 64px;font-size: 16px;color: #FFFFFF;line-height: 42px;float: right;}
+
+
+.btnpc{background: url("../image/bgpcdown.jpg")/*tpa=http://www.st099.com/images/bgpcdown.jpg*/ no-repeat;width: 147px;height: 115px;float: left;padding-top: 45px;}
+.btnpc span{background-position:  -156px -19px;width: 105px;height: 67px;display: block;margin: 0 auto;}
